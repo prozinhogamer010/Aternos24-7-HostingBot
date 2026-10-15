@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "turmadoprozinho02.aternos.me:51565",
+    "port": 51565,
     "version": "",
     "try-creative": false
   },
